@@ -1,0 +1,25 @@
+--host=ec2-54-147-36-107.compute-1.amazonaws.com --port=5432 --username=bgwezkerlkgeel --password --dbname=dcpgohagqps462
+
+CREATE TABLE tablewelb ( date DATE, name VARCHAR(30), quant INT, dist INT );
+
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-23', 'MSK', '150', '1391');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-24', 'MSK', '152', '1391');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-25', 'MSK', '133', '1391');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-26', 'MSK', '145', '1391');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-23', 'EKB', '122', '520');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-24', 'EKB', '136', '520');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-25', 'EKB', '111', '520');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-26', 'EKB', '121', '520');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-23', 'CHB', '146', '416');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-24', 'CHB', '121', '416');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-25', 'CHB', '145', '416');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-26', 'CHB', '150', '416');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-23', 'KZN', '122', '548');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-24', 'KZN', '111', '548');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-25', 'KZN', '152', '548');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-26', 'KZN', '136', '548');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-23', 'IRK', '150', '3872');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-24', 'IRK', '111', '3872');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-25', 'IRK', '121', '3872');
+INSERT INTO tablewelb (date, name, quant, dist ) VALUES ('2022-10-26', 'IRK', '152', '3872');
+
